@@ -8,6 +8,7 @@ Put Rails knowledge into practice! In this exercise, I
 - Implemented **form helpers** in a  Rails application.
 - Built muscle memory for the steps required to create a Rails app.
 
+### Goal time: 2 hours
 ### Start Time: 2:30 pm
 
 ### [See the app deployed to Heroku](https://bog-app-time-trials-1.herokuapp.com/creatures)
