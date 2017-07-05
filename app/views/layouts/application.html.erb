@@ -10,16 +10,17 @@
   </head>
 
   <body>
-    <div class="fixed-action-btn">
-      <a class="btn-floating btn-large red">
-        <i class="large material-icons">menu</i>
-      </a>
-      <ul>
-        <li><a class="btn-floating green" href="/creatures/new"><i class="material-icons">add</i></a></li>
-        <li><a class="btn-floating yellow darken-3" href="/creatures"><i class="material-icons">contacts</i></a></li>
-      </ul>
+    <div class="container">
+      <div class="fixed-action-btn">
+        <a class="btn-floating btn-large red">
+          <i class="large material-icons">menu</i>
+        </a>
+        <ul>
+          <li><a class="btn-floating green" href="/creatures/new"><i class="material-icons">add</i></a></li>
+          <li><a class="btn-floating yellow darken-3" href="/creatures"><i class="material-icons">contacts</i></a></li>
+        </ul>
+      </div>
+      <%= yield %>
     </div>
-    <br>
-    <%= yield %>
   </body>
 </html>

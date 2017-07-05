@@ -9,10 +9,10 @@
               <p><%= creature.description.truncate(45) %></p>
             </div>
             <div class="card-action">
-              <%= link_to "More about #{creature.name}", creatures_path %>
+              <%= link_to "More about #{creature.name}", creature_path(creature) %>
             </div>
           </div>
         </div>
   <% end %>
 </div>
-
+<%= will_paginate @creatures %>

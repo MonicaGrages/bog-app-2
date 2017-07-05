@@ -1,10 +1,3 @@
-new creature form here
-<%= form_for @creature do |f|%>
-  <%= f.label :name %>
-  <%= f.text_field :name %>
+<h3>Create a new Creature</h3>
 
-  <%= f.label :description %>
-  <%= f.text_area :description %>
-
-  <%= f.submit %>
-<% end %>
+<%= render "form" %>
