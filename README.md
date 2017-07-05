@@ -9,12 +9,18 @@ Put Rails knowledge into practice! In this exercise, I
 - Built muscle memory for the steps required to create a Rails app.
 
 ### Goal time: 2 hours
-### Start Time: 2:30 pm
+### Actual Time: 2 hours
 
 ### [See the app deployed to Heroku](https://bog-app-time-trials-1.herokuapp.com/creatures)
 
+### Wins for round 2
+
+- Achieved goal time
+- Used a different css framework (Materialize)
+- Incorporated a different Gem (will_paginate)
+
 ### Goals for round 3
 
--
--
--
+- Decrease time to 1.5 hours
+- Use a Gem I haven't used before
+- Use no hints
