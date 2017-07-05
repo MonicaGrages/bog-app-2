@@ -11,7 +11,7 @@ Put Rails knowledge into practice! In this exercise, I
 ### Goal time: 2 hours
 ### Actual Time: 2 hours
 
-### [See the app deployed to Heroku](https://bog-app-time-trials-1.herokuapp.com/creatures)
+### [See app 2 deployed to Heroku](https://bog-app-time-trials-2.herokuapp.com/creatures)
 
 ### Wins for round 2
 
